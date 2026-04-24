@@ -1,0 +1,5 @@
+config.php
+data.json
+inquiries.json
+uploads/
+cgi-bin/
